@@ -30,4 +30,8 @@ No other contact methods are available apart from those listed above.
 
 ## License
 
+This project is partially open-source. It is free to use and can be used for commercial purposes.
+
+For more details, please refer to the licensing terms below.
+
 [Apache 2.0 (check this out)](LICENSE)
