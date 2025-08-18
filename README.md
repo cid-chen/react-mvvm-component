@@ -14,6 +14,9 @@ Fast and lightweight(6KB), **supports React 17~19**, works with existing compone
 
 ## Bug Report
 
+If you discover a bug or security vulnerability, please report it by opening an issue or contacting us directly.  
+Your help in improving this project is greatly appreciated!
+
 If possible, please include a detailed description of the error along with screenshots or screen recordings.
 It would also be very helpful if you can provide a reproducible example using CodePen, JSFiddle, JSBin, or similar tools.
 Thank you.
