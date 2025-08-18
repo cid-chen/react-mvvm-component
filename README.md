@@ -1,6 +1,6 @@
 # react-mvvm-component
 
-An efficient plugin that brings **"modern MVVM architecture"** to React.
+An efficient plugin that **brings "modern MVVM architecture" to React.**
 
 Lightweight 6KB, supports React 17–19, integrates seamlessly with legacy projects and existing components.
 
