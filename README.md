@@ -9,9 +9,17 @@ High readability and easy maintenance for building more elegant, stable applicat
 
 ## Live Demo
 
-- <a href="https://reactmvvm.org" target="_blank" rel="noopener">Demo and Document, English</a>
+- <a href="https://reactmvvm.org" target="_blank" rel="noopener">Overview</a>
 
-- <a href="https://reactmvvm.org/overview/v1/tw" target="_blank" rel="noopener">Demo and Document, 中文</a>
+- <a href="https://reactmvvm.org/event/v1/en" target="_blank" rel="noopener">Basic Usage</a>
+
+- <a href="https://reactmvvm.org/render/v1/en" target="_blank" rel="noopener">If / Loop with JSX</a>
+
+- <a href="https://reactmvvm.org/lifecycle/v1/en" target="_blank" rel="noopener">Well-defined Lifecycle</a>
+
+- <a href="https://reactmvvm.org/watch/v1/en" target="_blank" rel="noopener">Data Watch</a>
+
+- <a href="https://reactmvvm.org/filecomponent/v1/en" target="_blank" rel="noopener">Single-File Componont, SFC module</a>
 <br/><br/>
 
 ## Installation
