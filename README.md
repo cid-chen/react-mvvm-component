@@ -14,6 +14,67 @@ High readability and easy maintenance for building more elegant, stable applicat
 - <a href="https://reactmvvm.org/overview/v1/tw" target="_blank" rel="noopener">Demo and Document, 中文</a>
 <br/><br/>
 
+## Installation
+
+```
+npm install @gratefuljs/react-mvvm-component
+```
+
+or
+
+```
+pnpm install @gratefuljs/react-mvvm-component
+```
+
+## Basic Example
+
+Built on React, this plugin is easy to set up — just plug it into your project and enjoy the extended functionality:
+
+```js
+import ReactDOM from 'react-dom/client';
+import React from 'react';
+import { useRespectVue } from '@gratefuljs/react-mvvm-component';
+ 
+const App = ()=>{
+  
+  const [MVVMComponent, VMmethodsAPI] = useRespectVue(React, {
+    view : ({$VM, methods, refDOM}) => (
+      <div>
+        <p>Count: { $VM('count') }</p>
+ 
+        <button onClick={methods.plus}>+</button>
+        &nbsp;
+        <button onClick={methods.minus}>-</button>
+      </div>),
+    methods : ({$VM, getMethods, memoBox, $DOM, nextTick}) => ({
+      plus : function(){
+ 
+        const cnt = $VM('count');
+ 
+        cnt.val( cnt.now()+1 );
+      },
+      minus : function(){
+ 
+        const cnt = $VM('count');
+ 
+        cnt.val( cnt.now()-1 );
+      },
+    }),
+    data : {
+      count: 0,
+    },
+  });
+ 
+  return (<>{MVVMComponent}</>);
+};
+ 
+ 
+const root = ReactDOM.createRoot(document.getElementById('app'));
+root.render(<React.StrictMode>
+    <App />
+</React.StrictMode>);
+```
+
 ## Bug Report
 
 If you discover a bug or security vulnerability, please report it by opening an issue or contacting us directly.  
