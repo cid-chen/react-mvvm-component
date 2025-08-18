@@ -22,7 +22,7 @@ High readability and easy maintenance for building more elegant, stable applicat
 - <a href="https://reactmvvm.org/filecomponent/v1/en" target="_blank" rel="noopener">Single-File Componont, SFC module</a>
 <br/><br/>
 
-## Live Demo (chinese ver.)
+## Live Demo (Chinese ver.)
 
 - <a href="https://reactmvvm.org/overview/v1/tw" target="_blank" rel="noopener">簡介</a>
 
