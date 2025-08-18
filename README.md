@@ -120,7 +120,7 @@ This project is partially open-source. It is free to use and can be used for com
 
 For more details, please refer to the licensing terms below.
 
-[Apache 2.0 (check this out)](LICENSE)
+[Apache 2.0 (check this out)](LICENSE.txt)
 
 <br/><br/>
 
