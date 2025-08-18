@@ -124,7 +124,7 @@ For more details, please refer to the licensing terms below.
 
 <br/><br/>
 
-If you like this project, you can support me by <a href="https://ko-fi.com/O4O21IE7IA" target="_blank"><img style="border: 0px none; height: 34px;" src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" alt="Buy Me a Coffee at ko-fi.com" height="34" border="0"></a> or simply starring the repo ⭐️.
+If you like this project, you can support me by <a href="https://ko-fi.com/O4O21IE7IA"><img style="border: 0px none; height: 34px;" src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" alt="Buy Me a Coffee at ko-fi.com" height="34" border="0"></a> or simply starring the repo ⭐️.
 
 Your support and encouragement are the driving force behind its continued development. 
 
