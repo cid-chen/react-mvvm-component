@@ -43,7 +43,7 @@ The MVVM component is **still a function component, so you can use it directly i
 
 It works seamlessly with other function components.
 
-Please refer to demo: [Entitly](https://reactmvvm.org/entitly/v1/en), [Parent-Child](https://reactmvvm.org/entitly/v1/en), and [Example8_1's original syntax](https://reactmvvm.org/lifecycle/v1/en) for more information.
+Please refer to demo: [Entitly](https://reactmvvm.org/entitly/v1/en), [Parent-Child](https://reactmvvm.org/methodapi/v1/en), and [Example8_1's original syntax](https://reactmvvm.org/lifecycle/v1/en) for more information.
 <br/><br/>
 
 ## Installation
