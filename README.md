@@ -37,7 +37,7 @@ High readability and easy maintenance for building more elegant, stable applicat
 - <a href="https://reactmvvm.org/filecomponent/v1/tw" target="_blank" rel="noopener">Single-File Componont, SFC 模組化</a>
 <br/><br/>
 
-## The MVVM component is still a function component
+## The MVVM component is still a function component !
 
 The MVVM component is **still a function component, so you can use it directly in your existing project**.
 
