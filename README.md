@@ -67,7 +67,7 @@ import ReactDOM from 'react-dom/client';
 import React from 'react';
 import { useRespectVue } from '@gratefuljs/react-mvvm-component';
  
-const App = ()=>{
+const App = ()=>{ // The MVVM component is still a function component
   
   const [MVVMComponent, VMmethodsAPI] = useRespectVue(React, {
     view : ({$VM, methods, refDOM}) => (
