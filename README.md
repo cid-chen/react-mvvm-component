@@ -9,9 +9,9 @@ High readability and easy maintenance for building more elegant, stable applicat
 
 ## Live Demo
 
-- <a href="https://reactmvvm.org" target="_blank" rel="noopener">Overview</a>
+- <a href="https://reactmvvm.org" target="_blank" rel="noopener">MVVM Component Overview</a>
 
-- <a href="https://reactmvvm.org/event/v1/en" target="_blank" rel="noopener">Basic Usage</a>
+- <a href="https://reactmvvm.org/event/v1/en" target="_blank" rel="noopener">MVVM Component Basic Usage</a>
 
 - <a href="https://reactmvvm.org/render/v1/en" target="_blank" rel="noopener">If / Loop with JSX</a>
 
@@ -24,7 +24,7 @@ High readability and easy maintenance for building more elegant, stable applicat
 
 ## Live Demo (中文)
 
-- <a href="https://reactmvvm.org/overview/v1/tw" target="_blank" rel="noopener">簡介</a>
+- <a href="https://reactmvvm.org/overview/v1/tw" target="_blank" rel="noopener">MVVM 元件簡介</a>
 
 - <a href="https://reactmvvm.org/event/v1/tw" target="_blank" rel="noopener">MVVM 元件使用案例</a>
 
