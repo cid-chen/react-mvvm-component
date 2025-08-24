@@ -7,7 +7,7 @@ Lightweight 6KB, supports React 17–19, integrates seamlessly with legacy proje
 High readability and easy maintenance for building more elegant, stable React applications.
 <br/><br/>
 
-## MVVM component is still a function component !
+## MVVM component is still a React function component !
 
 MVVM component is not intended to replace existing tools, but rather to extend or **enhance their functionality** with a complementary architectural pattern that may be more suitable in certain scenarios.
 
