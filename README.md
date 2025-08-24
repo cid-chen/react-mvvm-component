@@ -130,11 +130,10 @@ This project is partially open-source. It is free to use and can be used for com
 For more details, please refer to the licensing terms below.
 
 [Apache 2.0 (check this out)](LICENSE.txt)
-
 <br/><br/>
 
-If you like this project, you can support me by <a href="https://ko-fi.com/O4O21IE7IA"><img style="border: 0px none; height: 34px;" src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" alt="Buy Me a Coffee at ko-fi.com" height="34" border="0"></a> or simply starring the repo ⭐️.
+If you find this package helpful in your React projects,
 
-Your support and encouragement are the driving force behind its continued development. 
+please consider supporting it by making a donation <a href="https://ko-fi.com/O4O21IE7IA"><img style="border: 0px none; height: 34px;" src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" alt="Buy Me a Coffee at ko-fi.com" height="34" border="0"></a> or giving it a star ⭐️. 
 
-Thank you!
+Your support helps keep the project going. Thank you!
