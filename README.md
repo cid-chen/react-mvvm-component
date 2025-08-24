@@ -1,4 +1,4 @@
-# react-mvvm-component
+# react-mvvm-component v1.1.0
 
 An **efficient plugin that brings "modern MVVM architecture" to React.**
 
