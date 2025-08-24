@@ -4,7 +4,7 @@ An **efficient plugin that brings "modern MVVM architecture" to React.**
 
 Lightweight 6KB, supports React 17–19, integrates seamlessly with legacy projects and existing components.
 
-High readability and easy maintenance for building more elegant, stable applications.
+High readability and easy maintenance for building more elegant, stable React applications.
 <br/><br/>
 
 ## MVVM component is still a function component !
