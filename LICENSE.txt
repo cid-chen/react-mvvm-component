@@ -41,7 +41,7 @@ Note: The above statement is provided as an annotation and does not constitute a
 
 ==========================================================================
 
-作者附註 及 致謝詞 (Author's Note & Acknowledgments Chinese Version)：
+作者附註 及 致謝詞 (Author's Note & Acknowledgments zh-TW ver.)：
 
 感謝有幸得到緣分機運的啟發，來進行本專案項目的開發與釋出：
 
