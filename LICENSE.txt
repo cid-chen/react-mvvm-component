@@ -1,0 +1,64 @@
+Copyright 2025 Cid Chen(Ching-Hsiang, Chen)
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+==========================================================================
+
+Author's Note & Acknowledgments:
+
+I am grateful for the inspiration granted by fate and opportunity, 
+
+which enabled the development and release of this project:
+
+
+Gratitude to Heaven and God, to my ancestors, parents, and family.
+
+Heartfelt thanks to all mentors, elders, and friends from all walks of life.
+
+I am deeply thankful to all the pioneers and successors who fought countless unseen battles, 
+
+and whose sacrifices and efforts laid the foundation we build upon today.
+
+
+Special thanks to the developers and maintainers of JavaScript, jQuery, React, and Vue. 
+
+It has been an honor to spend countless beautiful moments working within your magnificent creations.
+
+
+Distribution of any derivative works based on this project must include the full text of this license.
+
+Note: The above statement is provided as an annotation and does not constitute any modification or restriction of the Apache License terms.
+
+==========================================================================
+
+作者附註 及 致謝詞 (Author's Note & Acknowledgments zh-TW ver.)：
+
+感謝有幸得到緣分機運的啟發，來進行本專案項目的開發與釋出：
+
+感謝媽祖託夢多次保佑，感謝上天、上帝指路。
+
+感謝祖先父母家人，感謝各界師長及前輩友人。
+
+感謝所有默默替我打了不知道的仗的各位前輩後進，感謝您們用血淚打下來的基礎。
+
+
+特別感謝 Javascript, jQuery, React, Vue 的所有開發作者及維護者，
+
+很榮幸能在您們的偉大著作裡度過無數個美好的時光。
+
+
+本專案著作之再創作(衍生作品)之散布，必須附帶本授權條款全文內容。
+
+注意：以上補充僅為附註，並不構成對 Apache License 條款的修改或限制。
+
+==========================================================================
