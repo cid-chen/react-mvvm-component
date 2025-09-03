@@ -1,3 +1,7 @@
+![Monthly Downloads](https://img.shields.io/npm/dm/@gratefuljs/react-mvvm-component.svg)
+![bundlephobia](https://img.shields.io/bundlephobia/min/@gratefuljs/react-mvvm-component)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE.txt)
+
 # react-mvvm-component v1.2.0
 
 An **efficient plugin that brings "modern MVVM architecture" to React.**
