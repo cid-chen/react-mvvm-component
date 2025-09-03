@@ -9,16 +9,7 @@ An **efficient plugin that brings "modern MVVM architecture" to React.**
 Lightweight 6KB, supports React 17–19, integrates seamlessly with legacy projects and existing components.
 
 High readability and easy maintenance for building more elegant, stable React applications.
-<br/><br/>
 
-## MVVM component is still a React function component !
-
-MVVM component is not intended to replace existing tools, but rather to extend or **enhance their functionality** with a complementary architectural pattern that may be more suitable in certain scenarios.
-
-Therefore, the MVVM component is **still a function component, so you can use it directly in your existing project**.
-
-It works seamlessly with other function components, please refer to demo: [Entitly](https://reactmvvm.org/entitly/v1/en), [Parent-Child](https://reactmvvm.org/methodapi/v1/en), and [Example8_1's original syntax](https://reactmvvm.org/lifecycle/v1/en) for more information.
-<br/><br/>
 
 ## Live Demo
 
@@ -48,6 +39,16 @@ It works seamlessly with other function components, please refer to demo: [Entit
 - <a href="https://reactmvvm.org/watch/v1/tw" target="_blank" rel="noopener">Data Watch 監聽器</a>
 
 - <a href="https://reactmvvm.org/filecomponent/v1/tw" target="_blank" rel="noopener">Single-File Componont, SFC 模組化</a>
+<br/><br/>
+
+
+## MVVM component is still a React function component !
+
+MVVM component is not intended to replace existing tools, but rather to extend or **enhance their functionality** with a complementary architectural pattern that may be more suitable in certain scenarios.
+
+Therefore, the MVVM component is **still a function component, so you can use it directly in your existing project**.
+
+It works seamlessly with other function components, please refer to demo: [Entitly](https://reactmvvm.org/entitly/v1/en), [Parent-Child](https://reactmvvm.org/methodapi/v1/en), and [Example8_1's original syntax](https://reactmvvm.org/lifecycle/v1/en) for more information.
 <br/><br/>
 
 ## Installation
