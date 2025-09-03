@@ -1,0 +1,25 @@
+{
+  "name": "@gratefuljs/react-mvvm-component",
+  "version": "1.2.0",
+  "description": "react-mvvm-component",
+  "type": "module",
+  "main": "dist/index.min.js",
+  "files": [
+    "dist",
+    "package.json",
+    "LICENSE.txt"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react mvvm",
+    "mvvm component",
+    "mvvm architecture",
+    "react mvvm component",
+    "mvvm framework"
+  ],
+  "author": "Cid Chen",
+  "license": "Apache-2.0"
+}
