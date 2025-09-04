@@ -1,14 +1,17 @@
-![Monthly Downloads](https://img.shields.io/npm/dm/@gratefuljs/react-mvvm-component.svg)
+![React 17‑19 Support](https://img.shields.io/badge/React%20Support-17%E2%80%9319-blue)
+![Monthly Downloads](https://img.shields.io/npm/dt/@gratefuljs/react-mvvm-component.svg)
 ![bundlephobia](https://img.shields.io/bundlephobia/min/@gratefuljs/react-mvvm-component)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE.txt)
 
 # react-mvvm-component v1.2.0
 
-An **efficient plugin that brings "modern MVVM architecture" to React.**
+**A simpler way to "manage local state" in React.**
 
-Lightweight 6KB, supports React 17–19, integrates seamlessly with legacy projects and existing components.
+Frustrated with complex state logic or debugging hooks and effects?
 
-High readability and easy maintenance for building more elegant, stable React applications.
+This tool brings a **clearly and more intuitive way to handle "in-component state".**
+
+Works with React 17–19 and seamlessly compatible with existing components!
 
 
 ## Live Demo
