@@ -5,9 +5,13 @@
 
 # react-mvvm-component v1.2.0
 
-**A simpler tool to "manage local state" in React.**
+A simpler tool to **"manage local state" in React.**
 
 Frustrated with complex state logic or debugging hooks and effects?
+
+<br/>
+
+**React MVVM Component = React Function Component + MVVM Options API**
 
 This tool brings a **clearly and more intuitive way to handle "in-component state".**
 
