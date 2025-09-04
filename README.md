@@ -5,7 +5,7 @@
 
 # react-mvvm-component v1.2.0
 
-**A simpler way to "manage local state" in React.**
+**A simpler tool to "manage local state" in React.**
 
 Frustrated with complex state logic or debugging hooks and effects?
 
