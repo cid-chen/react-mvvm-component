@@ -1,5 +1,4 @@
 ![React 17‑19 Support](https://img.shields.io/badge/React%20Support-17%E2%80%9319-blue)
-![Monthly Downloads](https://img.shields.io/npm/dt/@gratefuljs/react-mvvm-component.svg)
 ![bundlephobia](https://img.shields.io/bundlephobia/min/@gratefuljs/react-mvvm-component)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE.txt)
 
