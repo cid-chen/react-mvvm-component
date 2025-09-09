@@ -118,7 +118,7 @@ root.render(<React.StrictMode>
 </React.StrictMode>);
 ```
 
-## Bug Report
+## Bug Report 
 
 If you discover a bug or security vulnerability, please report it by opening an issue or contacting us directly.  
 Your help in improving this project is greatly appreciated!
@@ -132,6 +132,11 @@ Thank you.
 [X(Twitter)](https://x.com/cid_chen)
 
 No other contact methods are available apart from those listed above.
+<br/><br/>
+
+## Change Log
+
+[CHANGELOG.md](CHANGELOG.md)
 <br/><br/>
 
 ## License
