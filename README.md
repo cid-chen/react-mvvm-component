@@ -4,17 +4,21 @@
 
 # react-mvvm-component v1.2.0
 
-A simpler tool to **"manage local state" in React.**
+React is a library, not a state manager. That’s why **"React MVVM Component"** comes in.
 
 Frustrated with complex state logic or debugging hooks and effects?
-
+<br/>
 <br/>
 
 **React MVVM Component = React Function Component + MVVM Options API**
+<br/>
+<br/>
 
-This tool brings a **clearly and more intuitive way to handle "in-component state".**
+Using this new hook plugin, you can manage "in-component state" more clearly and intuitively.
 
-Works with React 17–19 and seamlessly compatible with existing components!
+Lightweight 6KB, supports React 17–19 and **the essence of Function Components remains unchanged**.
+
+**Seamlessly compatible with native components, existing projects and React ecosystem !**
 
 
 ## Live Demo
@@ -50,7 +54,7 @@ Works with React 17–19 and seamlessly compatible with existing components!
 
 ## MVVM component is still a React function component !
 
-MVVM component is not intended to replace existing tools, but rather to extend or **enhance their functionality** with a complementary architectural pattern that may be more suitable in certain scenarios.
+MVVM component is not intended to replace existing tools, but rather to **extend their functionality** with a complementary architectural pattern that may be more suitable in certain scenarios.
 
 Therefore, the MVVM component is **still a function component, so you can use it directly in your existing project**.
 
