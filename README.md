@@ -4,9 +4,9 @@
 
 # react-mvvm-component v1.2.0
 
-React is a library, not a state manager. That’s why **"React MVVM Component"** comes in.
+React is a library, not a state manager. That’s why `"React MVVM Component"` comes in.
 
-Frustrated with complex state logic or debugging hooks and effects?
+Frustrated with complex local state flow or debugging hooks and effects?
 <br/>
 <br/>
 
@@ -14,9 +14,9 @@ Frustrated with complex state logic or debugging hooks and effects?
 <br/>
 <br/>
 
-Using this new hook plugin, you can manage "in-component state" more clearly and intuitively.
+Using this new hook plugin, you can manage **"in-component state"** more clearly and intuitively.
 
-Lightweight 6KB, supports React 17–19 and **the essence of Function Components remains unchanged**.
+`Lightweight 6KB`, `supports React 17–19` and `the essence of Function Components remains unchanged`.
 
 **Seamlessly compatible with native components, existing projects and React ecosystem !**
 
