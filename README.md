@@ -4,9 +4,9 @@
 
 # react-mvvm-component v1.2.0
 
-React is a library, not a state manager. That’s why `"React MVVM Component"` comes in.
+React is an awesome library. `"React MVVM Component"` make its state management better.
 
-Frustrated with complex local state flow or debugging hooks and effects?
+Frustrated with complex local state flow or debugging hooks and effects in components?
 <br/>
 <br/>
 
