@@ -62,3 +62,8 @@ Note: The above statement is provided as an annotation and does not constitute a
 注意：以上補充僅為附註，並不構成對 Apache License 條款的修改或限制。
 
 ==========================================================================
+Project & Resources:
+
+Website: https://reactmvvm.org
+
+GitHub: https://github.com/cid-chen/react-mvvm-component

@@ -1,5 +1,5 @@
 ![React 17‑19 Support](https://img.shields.io/badge/React%20Support-17%E2%80%9319-blue)
-![bundlephobia](https://img.shields.io/bundlephobia/min/@gratefuljs/react-mvvm-component)
+![minzipped size](https://img.shields.io/badge/minzipped%20size-5.8kB-brightgreen)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE.txt)
 
 # react-mvvm-component v1.2.0
@@ -49,6 +49,16 @@ Using this new hook plugin, you can manage **"in-component state"** more clearly
 - <a href="https://reactmvvm.org/watch/v1/tw" target="_blank" rel="noopener">Data Watch 監聽器</a>
 
 - <a href="https://reactmvvm.org/filecomponent/v1/tw" target="_blank" rel="noopener">Single-File Componont, SFC 模組化</a>
+<br/><br/>
+
+
+## Why React MVVM?
+
+The "MVVM pattern" has demonstrated long-term reliability in frontend development, just as the "MVC pattern" has proven its reliability across various ecosystems such as C#, PHP and Java.
+
+So, when we were working on some complex React components, **it looked like a good thing to do.**
+
+This React MVVM component hook provides **Separation of Concerns (SoC)** by using finer-grained control boundaries api for better extensibility and maintainability.
 <br/><br/>
 
 
@@ -152,8 +162,8 @@ For more details, please refer to the licensing terms below.
 [Apache 2.0 (check this out)](LICENSE.txt)
 <br/><br/>
 
-If you find this package helpful in your React projects,
+This project is dedicated to developing this package for free.
 
-please consider supporting it by making a donation <a href="https://ko-fi.com/O4O21IE7IA"><img style="border: 0px none; height: 34px;" src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" alt="Buy Me a Coffee at ko-fi.com" height="34" border="0"></a> or giving it a star ⭐️. 
+However, your donations <a href="https://ko-fi.com/O4O21IE7IA"><img style="border: 0px none; height: 34px;" src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" alt="Buy Me a Coffee at ko-fi.com" height="34" border="0"></a> and star support are greatly appreciated. They allow the maintainers to dedicate consistent time and energy, ensuring that bug fixes and feature improvements can continue steadily.
 
-Your support helps keep the project going. Thank you!
+If you can spare the cost of a cup of coffee, it would make a big difference and directly support the long-term development of this project. Thank you!
